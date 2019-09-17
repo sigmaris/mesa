@@ -1,3 +1,10 @@
+mesa (19.2.0-1~rock64buster) buster; urgency=medium
+
+  * control: Go back to llvm/clang-8 for buster compatibility
+  * rules: Build panfrost on ARM architectures
+
+ -- Hugh Cole-Baker <sigmaris@gmail.com>  Sun, 29 Sep 2019 17:41:01 +0100
+
 mesa (19.2.0-1) UNRELEASED; urgency=medium
 
   * New upstream release.
